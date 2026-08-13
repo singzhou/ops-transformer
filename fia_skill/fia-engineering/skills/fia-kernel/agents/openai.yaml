@@ -1,0 +1,4 @@
+interface:
+  display_name: "FIA Kernel"
+  short_description: "Trace FIA AIC/AIV pipelines, lengths, masks, and FD"
+  default_prompt: "Use $fia-kernel to trace this FIA kernel execution path."

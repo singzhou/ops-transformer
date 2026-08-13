@@ -1,0 +1,4 @@
+interface:
+  display_name: "FIA Validation"
+  short_description: "Validate FIA accuracy, metadata, graphs, and performance"
+  default_prompt: "Use $fia-validation to validate this FIA change and its failure modes."

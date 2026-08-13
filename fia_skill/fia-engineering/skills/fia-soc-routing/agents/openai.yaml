@@ -1,0 +1,4 @@
+interface:
+  display_name: "FIA SoC Routing"
+  short_description: "Map FIA paths across Ascend 910B, 910C, and 950"
+  default_prompt: "Use $fia-soc-routing to identify the FIA path for this Ascend SoC."

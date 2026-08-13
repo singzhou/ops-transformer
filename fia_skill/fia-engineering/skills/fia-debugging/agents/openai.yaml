@@ -1,0 +1,4 @@
+interface:
+  display_name: "FIA Debugging"
+  short_description: "Diagnose FIA precision, runtime, hangs, and memory faults"
+  default_prompt: "Use $fia-debugging to classify and isolate this FIA failure."

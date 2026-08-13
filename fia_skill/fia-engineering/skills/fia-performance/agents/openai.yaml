@@ -1,0 +1,4 @@
+interface:
+  display_name: "FIA Performance"
+  short_description: "Model, profile, and optimize FIA without breaking topology"
+  default_prompt: "Use $fia-performance to profile and optimize this FIA path safely."

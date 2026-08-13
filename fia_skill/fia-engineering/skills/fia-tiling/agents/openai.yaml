@@ -1,0 +1,4 @@
+interface:
+  display_name: "FIA Tiling"
+  short_description: "Trace FIA tiling, split-core, keys, workspace, and FD"
+  default_prompt: "Use $fia-tiling to analyze this FIA tiling or split-core behavior."

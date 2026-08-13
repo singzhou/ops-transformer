@@ -1,0 +1,4 @@
+interface:
+  display_name: "FIA Engineering"
+  short_description: "Trace FIA tiling, kernels, SoCs, integration, and tests"
+  default_prompt: "Use $fia-engineering to trace and safely modify FusedInferAttentionScore."

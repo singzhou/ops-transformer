@@ -1,0 +1,4 @@
+interface:
+  display_name: "FIA Integration"
+  short_description: "Integrate FIA ACLNN, PTA, custom OPP, and ACLGraph"
+  default_prompt: "Use $fia-integration to plan or debug FIA integration in vLLM Ascend."
